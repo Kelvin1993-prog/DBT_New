@@ -1,0 +1,13 @@
+
+# target/
+# dbt_packages/
+# logs/
+
+# Ignore compiled dbt files
+dbt_packages/
+target/
+logs/
+
+# Ignore virtual environment
+venv/
+.env
